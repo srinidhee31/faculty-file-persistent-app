@@ -1,0 +1,17 @@
+{
+  "name": "faculty-file-persistent-app",
+  "version": "1.0.0",
+  "description": "faculty rest api",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "author": "srinidhee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": []
+}
